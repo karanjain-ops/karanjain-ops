@@ -19,10 +19,11 @@
 <img align="left" alt="C++" width="35px" src="https://img.icons8.com/color/452/c-plus-plus-logo.png"/>
 <img align="left" alt="Java" width="35px" src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png"/>
 <img align="left" alt="Python" width="35px" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-<img align="left" alt="MySQL" width="35px" src="https://img.icons8.com/color/452/mysql-logo.png"/>
-<img align="left" alt="Arduino" width="35px" src="https://img.icons8.com/color/452/arduino.png"/>
+<!--<img align="left" alt="MySQL" width="35px" src="https://img.icons8.com/color/452/mysql-logo.png"/> 
 <img align="left" alt="MS Access" width="35px" src="https://img.icons8.com/color/452/ms-access.png"/>
-<img align="left" alt="Visual Studio Code" width="35px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />
+-->
+<img align="left" alt="Arduino" width="35px" src="https://img.icons8.com/color/452/arduino.png"/>
+<img align="left" alt="MatLab" width="35px" src="https://img.icons8.com/fluency/344/matlab.png" />
 <img align="left" alt="SQL" width="35px" src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/100/000000/git.png"/>
 <img align="left" alt="Linux" width="35px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
