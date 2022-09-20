@@ -29,6 +29,7 @@
 <img align="left" alt="SQL" width="35px" src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/100/000000/git.png"/>
 <img align="left" alt="Linux" width="35px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<img align="left" alt="PHP" width="35px" src="https://img.icons8.com/officel/344/php-logo.png"/>
 <br />
 
 
