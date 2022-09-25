@@ -34,9 +34,8 @@
 
 
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanjain-ops&theme=highcontrast)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=karanjain-ops&show_icons=true&theme=highcontrast&title_color=FF8400)](https://github.com/karanjain-ops/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanjain-ops&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)(https://github.com/karanjain-ops/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanjain-ops&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanjain-ops&bg_color=000000&text_color=FFFFFF)](https://github.com/karanjain-ops/github-readme-stats)
 
