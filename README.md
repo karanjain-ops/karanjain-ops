@@ -9,7 +9,6 @@
 
 
 <p align="left">
-<a href="http://twitter.com/iam_karanjain_" target="blank"><img align="center" src="https://github.com/karanjain-ops/karanjain-ops/blob/main/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/karan-jain-1124631bb" target="blank"><img align="center" src="https://github.com/karanjain-ops/karanjain-ops/blob/main/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://instagram.com/iam_karanjain" target="blank"><img align="center" src="https://github.com/karanjain-ops/karanjain-ops/blob/main/instagram.png" alt="" height="30" /></a>
 </p>
